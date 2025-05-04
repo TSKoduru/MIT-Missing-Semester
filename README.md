@@ -1,0 +1,1 @@
+Note that most of the files in this repository are not meant to be run by themselves, they're just a record of all the commands that I ran. Some lessons are a bit different in that I do write full .sh scripts.
